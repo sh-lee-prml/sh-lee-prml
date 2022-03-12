@@ -1,20 +1,20 @@
-## Sang-Hoon Lee
+## 😎Sang-Hoon Lee
 I'm integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive Engineering, Korea University. In March 2016, I started my Ph.D. in [Pattern Recognition & Machine Learning (PRML) Lab](http://pr.korea.ac.kr) at the Korea University in Seoul, Korea, under the supervision of [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW).
 
 - E-mail: sh_lee@korea.ac.kr
 - Google Scholar: [Link](https://scholar.google.com/citations?user=HDzlBm0AAAAJ&hl=en)
 
-### Research Interests
+### 👀 Research Interests 
 - Speech Synthesis 
 - Singing Voice Synthesis
 - Machine Translation
 - Brain-Computer Interface
 
-### News
+### ✔ News
 - 2022.03: One paper is accepted by IEEE TASLP ([Early Access](https://ieeexplore.ieee.org/abstract/document/9729483)) 
 - 2022.01: Three paper are accepted by ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
 
-## Publication
+## 🎉 Publication
 ### 2022
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
 - Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis, **S.-H. Lee**, J.-H. Kim, G.-E. Lee, S.-W. Lee, **ICASSP**, 2022.
@@ -35,7 +35,7 @@ I'm integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive Engin
 
 
 
-### Educations
+### ✨ Educations
 **2016.03-2023.02 (Now)**: Integrated M.S.&Ph.D student, Dept. of Brain and Cognitive Engineering, Korea University
 
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University.
