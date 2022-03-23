@@ -40,5 +40,5 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University.
 
-### ✨ Awards
+### 🎁 Awards
 **2022.02.25**: Paper Award ([Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267)), Korea University
