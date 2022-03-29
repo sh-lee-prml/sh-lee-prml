@@ -18,16 +18,16 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 ## 🎉 Publication
 ### 2022
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
-- StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, S.-W. Lee, **ICPR**, 2022. (Accepted) 
-- Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis, **S.-H. Lee**, J.-H. Kim, G.-E. Lee, S.-W. Lee, **ICASSP**, 2022.
-- PVAE-TTS: Progressively Style Adaptive Text-to-Speech via Progressive Variaional Autoencoder,	J.-H. Lee, **S.-H. Lee**, J.-H. Kim, S.-W. Lee,  **ICASSP**, 2022.
-- Emoq-TTS: Emotion Intensity Quantization for Fine-Grained Controllable Emotional Text-to-Speech,	C.-B. Im, **S.-H. Lee**, S.-W. Lee, **ICASSP**, 2022.
+- StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. (Accepted) 
+- Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis, **S.-H. Lee**, J.-H. Kim, G.-E. Lee, and S.-W. Lee, **ICASSP**, 2022.
+- PVAE-TTS: Progressively Style Adaptive Text-to-Speech via Progressive Variaional Autoencoder,	J.-H. Lee, **S.-H. Lee**, J.-H. Kim, and S.-W. Lee,  **ICASSP**, 2022.
+- Emoq-TTS: Emotion Intensity Quantization for Fine-Grained Controllable Emotional Text-to-Speech,	C.-B. Im, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2022.
 
 
 ### 2021
-- [VoiceMixer: Adversarial Voice Style Mixup](https://proceedings.neurips.cc/paper/2021/hash/0266e33d3f546cb5436a10798e657d97-Abstract.html), **S.-H. Lee**, J.-H. Kim, H. Chung, S.-W. Lee, **NeurIPS**, 2021.
+- [VoiceMixer: Adversarial Voice Style Mixup](https://proceedings.neurips.cc/paper/2021/hash/0266e33d3f546cb5436a10798e657d97-Abstract.html), **S.-H. Lee**, J.-H. Kim, H. Chung, and S.-W. Lee, **NeurIPS**, 2021.
 - [Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267), **S.-H. Lee**, H.-W. Yoon, H.-R. Noh, J.-H. Kim, and S.-W. Lee, **AAAI**, 2021.
-- [GC-TTS: Few-shot Speaker Adaptation with Geometric Constraints](https://ieeexplore.ieee.org/abstract/document/9658830), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, H.-G. Jung and S.-W. Lee, **SMC**, 2021.
+- [GC-TTS: Few-shot Speaker Adaptation with Geometric Constraints](https://ieeexplore.ieee.org/abstract/document/9658830), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, H.-G. Jung, and S.-W. Lee, **SMC**, 2021.
 - [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, and S.-W. Lee, **Interspeech**, 2021.  
 - [Reinforce-Aligner: Reinforcement Alignment Search for Robust End-to-End Text-to-Speech](https://arxiv.org/abs/2106.02830), H. Chung, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2021.  
 
