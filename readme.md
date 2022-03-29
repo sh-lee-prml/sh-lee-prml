@@ -11,7 +11,8 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - Brain-Computer Interface
 
 ### ✔ News
-- 2022.03: One paper is accepted by IEEE TASLP ([Early Access](https://ieeexplore.ieee.org/abstract/document/9729483)) 
+- 2022.03: One paper is accepted by IEEE TASLP ([Early Access](https://ieeexplore.ieee.org/abstract/document/9729483))
+- 2022.03: One paper is accepted by ICPR (StyleVC) 
 - 2022.01: Three paper are accepted by ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
 
 ## 🎉 Publication
