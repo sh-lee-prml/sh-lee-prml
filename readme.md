@@ -20,7 +20,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
 - StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. (Accepted) [[Demo]](https://prml-lab-speech-team.github.io/demo/insun-hwang/StyleVC/) [[Code]](https://github.com/intory89/StyleVC)
 - Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis, **S.-H. Lee**, J.-H. Kim, G.-E. Lee, and S.-W. Lee, **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/FreGAN2/) [[Code]](https://github.com/prml-lab-speech-team/demo/tree/master/FreGAN2/code)
-- PVAE-TTS: Progressively Style Adaptive Text-to-Speech via Progressive Variaional Autoencoder,	J.-H. Lee, **S.-H. Lee**, J.-H. Kim, and S.-W. Lee,  **ICASSP**, 2022.
+- PVAE-TTS: Progressively Style Adaptive Text-to-Speech via Progressive Variaional Autoencoder,	J.-H. Lee, **S.-H. Lee**, J.-H. Kim, and S.-W. Lee,  **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/PVAE-TTS/)
 - Emoq-TTS: Emotion Intensity Quantization for Fine-Grained Controllable Emotional Text-to-Speech,	C.-B. Im, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/EmoQ-TTS/)
 
 
