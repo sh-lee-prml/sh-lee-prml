@@ -15,7 +15,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - 2022.03: One paper is accepted by ICPR 2022 (StyleVC) 
 - 2022.01: Three paper are accepted by ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
 
-## 🎉 Publication
+## 🎉 Publications
 ### 2022
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
 - StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. (Accepted) [[Demo]](https://prml-lab-speech-team.github.io/demo/insun-hwang/StyleVC/) [[Code]](https://github.com/intory89/StyleVC)
