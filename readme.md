@@ -25,8 +25,8 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 
 ### 2021
-- [VoiceMixer: Adversarial Voice Style Mixup](https://proceedings.neurips.cc/paper/2021/hash/0266e33d3f546cb5436a10798e657d97-Abstract.html), **S.-H. Lee**, J.-H. Kim, H. Chung, and S.-W. Lee, **NeurIPS**, 2021.
-- [Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267), **S.-H. Lee**, H.-W. Yoon, H.-R. Noh, J.-H. Kim, and S.-W. Lee, **AAAI**, 2021.
+- [VoiceMixer: Adversarial Voice Style Mixup](https://proceedings.neurips.cc/paper/2021/hash/0266e33d3f546cb5436a10798e657d97-Abstract.html), **S.-H. Lee**, J.-H. Kim, H. Chung, and S.-W. Lee, **NeurIPS**, 2021. [[Demo]](https://anonymous-speech.github.io/voicemixer/)
+- [Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267), **S.-H. Lee**, H.-W. Yoon, H.-R. Noh, J.-H. Kim, and S.-W. Lee, **AAAI**, 2021. [[Demo]](https://anonymsg.github.io/MSG/Demo/index.html)
 - [GC-TTS: Few-shot Speaker Adaptation with Geometric Constraints](https://ieeexplore.ieee.org/abstract/document/9658830), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, H.-G. Jung, and S.-W. Lee, **SMC**, 2021.
 - [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, and S.-W. Lee, **Interspeech**, 2021.  
 - [Reinforce-Aligner: Reinforcement Alignment Search for Robust End-to-End Text-to-Speech](https://arxiv.org/abs/2106.02830), H. Chung, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2021.  
