@@ -33,7 +33,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ### ~2020
 - [Audio Dequantization for High Fidelity Audio Generation in Flow-based Neural Vocoder](https://arxiv.org/abs/2008.06867), H.-W. Yoon, **S.-H. Lee**, H.-R. Noh, and S.-W. Lee, **Interspeech**, 2020.  
-- [Learning Machines Can Curl - Adaptive deep reinforcement learning enables the robot Curly to win against human players in an icy world](https://nips.cc/Conferences/2019/ScheduleMultitrack?event=15442), D.-O. Won, **S.-H. Lee**, K.-R. Muller, and S.-W. Lee, **NeurIPS 2019 Demonstration Track**, 2019. [[Video]](https://www.youtube.com/watch?v=71S8qpmU6VA)
+- [Learning Machines Can Curl - Adaptive deep reinforcement learning enables the robot Curly to win against human players in an icy world](https://nips.cc/Conferences/2019/ScheduleMultitrack?event=15442), [D.-O. Won](https://sites.google.com/view/aiml-hallym/people/professor?authuser=0), **S.-H. Lee**, K.-R. Muller, and S.-W. Lee, **NeurIPS 2019 Demonstration Track**, 2019. [[Video]](https://www.youtube.com/watch?v=71S8qpmU6VA)
 
 
 
