@@ -47,5 +47,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ### 🎙Invited Talks
 **2022.07.01**: VoiceMixer: Adversarial Voice Style Mixup, [Top Conference Session in KCC2022](https://www.kiise.or.kr/conference/kcc/2022/)
+
 **2021.12.02**: Voice Conversion, Netmarble
+
 **2021.07.29**: Speech Synthesis and Voice Conversion, Neosapience
