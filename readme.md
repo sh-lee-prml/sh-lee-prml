@@ -40,11 +40,12 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 ### ✨ Educations
 **2016.03-2023.02 (Now)**: Integrated M.S.&Ph.D student, Dept. of Brain and Cognitive Engineering, Korea University
 
-**2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University.
+**2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
 ### 🎁 Awards
 **2022.02.25**: Paper Award ([Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267)), Korea University
 
 ### 🎙Invited Talks
 **2022.07.01**: VoiceMixer: Adversarial Voice Style Mixup, [KCC2022 Top Conference Session](https://www.kiise.or.kr/conference/kcc/2022/)
+
 **2021.07.29**: Speech Synthesis and Voice Conversion, Neosapience
