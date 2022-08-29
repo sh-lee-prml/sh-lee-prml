@@ -43,7 +43,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
 ### 🎁 Awards
-**2022.02.25**: Paper Award ([Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis](https://arxiv.org/abs/2012.07267)), Korea University
+**2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
 **2022.08.19**: VoiceMixer: Adversarial Voice Style Mixup, [AIGS Symposium](https://aigs.kr/default/customer/customer_01.php?com_board_basic=read_form&topmenu=5&left=1&com_board_idx=24&com_board_id=2)
