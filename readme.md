@@ -52,7 +52,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
-**2022.08.19**: VoiceMixer: Adversarial Voice Style Mixup, [AIGS Symposium](https://aigs.kr/default/customer/customer_01.php?com_board_basic=read_form&topmenu=5&left=1&com_board_idx=24&com_board_id=2)
+**2022.08.19**: VoiceMixer: Adversarial Voice Style Mixup, [AIGS Symposium 2022](https://aigs.kr/default/customer/customer_01.php?com_board_basic=read_form&topmenu=5&left=1&com_board_idx=24&com_board_id=2)
 
 **2022.07.01**: VoiceMixer: Adversarial Voice Style Mixup, [Top Conference Session in KCC2022](https://www.kiise.or.kr/conference/kcc/2022/)
 
