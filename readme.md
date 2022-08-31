@@ -35,6 +35,12 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - [Audio Dequantization for High Fidelity Audio Generation in Flow-based Neural Vocoder](https://arxiv.org/abs/2008.06867), H.-W. Yoon, **S.-H. Lee**, H.-R. Noh, and S.-W. Lee, **Interspeech**, 2020.  
 - [Learning Machines Can Curl - Adaptive deep reinforcement learning enables the robot Curly to win against human players in an icy world](https://nips.cc/Conferences/2019/ScheduleMultitrack?event=15442), [D.-O. Won](https://sites.google.com/view/aiml-hallym/people/professor?authuser=0), **S.-H. Lee**, K.-R. Muller, and S.-W. Lee, **NeurIPS 2019 Demonstration Track**, 2019. [[Video]](https://www.youtube.com/watch?v=71S8qpmU6VA) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/NeurIPS2019_poster.pdf)
 
+### Patents (KR)
+- "METHOD TO TRANSFORM VOICE,", 10-2439022, 29, Aug., 2022.
+- "METHOD AND APPARTUS FOR VOICE CONVERSION BY USING NEURAL NETWORK," 10-2340486, 14, Dec., 2021.
+- "SYSTEM AND METHOD FOR CURLING SWEEPING CONTROL," 10-2257358, 21, May, 2021.
+- "APPARATUS AND METHOD FOR RECOMMENDATION OF CURLING GAME STRATEGY USING DEEP LEARNING," 10-2045567, 11, Nov., 2019.
+- "APPARATUS AND METHOD FOR DELIVERY AND SWEEPING AT CURLING GAME," 10-1948713, 11, Feb., 2019.
 
 
 ### ✨ Educations
