@@ -12,7 +12,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ### ✔ News
 - 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
-- 2022.03: One paper has been accepted to IEEE TASLP ([Early Access](https://ieeexplore.ieee.org/abstract/document/9729483))
+- 2022.03: One paper has been accepted to IEEE TASLP (DCVC)
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
 - 2022.01: Three paper have been accepted to ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
 
