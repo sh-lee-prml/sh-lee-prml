@@ -11,12 +11,14 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - Brain-Computer Interface
 
 ### ✔ News
+- 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
 - 2022.03: One paper has been accepted to IEEE TASLP ([Early Access](https://ieeexplore.ieee.org/abstract/document/9729483))
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
 - 2022.01: Three paper have been accepted to ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
 
 ## 🎉 Publications
 ### 2022
+- **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M-J. Hwang, and S.-W. Lee, "HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis," NeurIPS, 2022. (Accepted)
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
 - StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. (Accepted) [[Demo]](https://prml-lab-speech-team.github.io/demo/insun-hwang/StyleVC/) [[Code]](https://github.com/intory89/StyleVC)
 - [Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis](https://ieeexplore.ieee.org/document/9746675), **S.-H. Lee**, J.-H. Kim, G.-E. Lee, and S.-W. Lee, **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/FreGAN2/) [[Code]](https://github.com/prml-lab-speech-team/demo/tree/master/FreGAN2/code)
