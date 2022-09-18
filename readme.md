@@ -18,7 +18,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ## 🎉 Publications
 ### 2022
-- HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis, **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. (Accepted)
+- HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis, **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. (Accepted)
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
 - StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/insun-hwang/StyleVC/) [[Code]](https://github.com/intory89/StyleVC)
 - [Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis](https://ieeexplore.ieee.org/document/9746675), **S.-H. Lee**, J.-H. Kim, G.-E. Lee, and S.-W. Lee, **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/FreGAN2/) [[Code]](https://github.com/prml-lab-speech-team/demo/tree/master/FreGAN2/code)
