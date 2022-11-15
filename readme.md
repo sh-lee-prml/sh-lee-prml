@@ -11,6 +11,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - Brain-Computer Interface
 
 ### ✔ News
+- 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
 - 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
 - 2022.03: One paper has been accepted to IEEE TASLP (DCVC)
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
