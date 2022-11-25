@@ -3,6 +3,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 - E-mail: sh_lee@korea.ac.kr
 - Google Scholar: [Link](https://scholar.google.com/citations?user=HDzlBm0AAAAJ&hl=en)
+- PRML Speech Team: [Link](https://prml-lab-speech-team.github.io/demo/)
 
 ### 👀 Research Interests 
 - Speech Synthesis 
