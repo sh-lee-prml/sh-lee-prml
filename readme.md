@@ -7,6 +7,7 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ### 👀 Research Interests 
 - Speech Synthesis 
+- Audio Generation
 - Singing Voice Synthesis
 - Speech-to-Speech Translation
 - Brain-Computer Interface
