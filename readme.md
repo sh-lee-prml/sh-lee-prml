@@ -22,8 +22,8 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 
 ## 🎉 Publications
 ### 2023 
-- HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer, **S.-H. Lee**, H.-Y. Choi, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
-- Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation, H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
+- [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](), **S.-H. Lee**, H.-Y. Choi, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
+- [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
 
 ### 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX), **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. [[OpenReview]](https://openreview.net/forum?id=awdyRVnfQKX) [[Demo]](https://sh-lee-prml.github.io/hierspeech-demo/)
