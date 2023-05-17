@@ -13,13 +13,18 @@ I'm an integrated M.S.&Ph.D. Student in the Department of Brain and Cognitive En
 - Brain-Computer Interface
 
 ### ✔ News
-- 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
+- 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
+<!-- - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
 - 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
 - 2022.03: One paper has been accepted to IEEE TASLP (DCVC)
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
-- 2022.01: Three paper have been accepted to ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS)
+- 2022.01: Three paper have been accepted to ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS) -->
 
 ## 🎉 Publications
+### 2023 
+- HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer, **S.-H. Lee**, H.-Y. Choi, H.-S. Oh, and S.-W. Lee, "," **Interspeech**, 2023. (Accepted)
+- Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation, H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
+
 ### 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX), **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. [[OpenReview]](https://openreview.net/forum?id=awdyRVnfQKX) [[Demo]](https://sh-lee-prml.github.io/hierspeech-demo/)
 - [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022
