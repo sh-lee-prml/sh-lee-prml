@@ -13,7 +13,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
-- 2023.05: We release Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and text-to-vec(TTV) systems. 
+- 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs)](https://arxiv.org/abs/2305.15816) and DDDM-VC for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and text-to-vec(TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
 <!-- - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
 - 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
