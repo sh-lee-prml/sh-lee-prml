@@ -20,7 +20,12 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
 - 2022.01: Three paper have been accepted to ICASSP 2022 (Fre-GAN 2, EmoQ-TTS, PVAE-TTS) -->
 
+
+
 ## 🎉 Publications
+### Arxiv
+- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under review)
+
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](), **S.-H. Lee**, H.-Y. Choi, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
 - [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
