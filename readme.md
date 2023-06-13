@@ -13,7 +13,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
-- 2023.06: We release [HiddenSinger] for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
+- 2023.06: We release [HiddenSinger](https://arxiv.org/abs/2306.06814) for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
 <!-- - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
