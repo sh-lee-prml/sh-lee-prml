@@ -13,6 +13,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
+- 2023.06: We release [HiddenSinger] for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
 <!-- - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
@@ -25,7 +26,8 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 ## 🎉 Publications
 ### Arxiv
-- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under review)
+- [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) 
+- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under Review)
 
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
