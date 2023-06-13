@@ -62,7 +62,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 
 ### ✨ Educations
-**2016.03-2023.02 (Now)**: Integrated M.S.&Ph.D student, Dept. of Brain and Cognitive Engineering, Korea University
+**2016.03-2023.02**: Integrated M.S.&Ph.D, Dept. of Brain and Cognitive Engineering, Korea University
 
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
