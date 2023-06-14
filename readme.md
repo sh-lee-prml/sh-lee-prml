@@ -26,8 +26,8 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 ## 🎉 Publications
 ### Arxiv
-- [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) 
-- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under Review)
+- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) 
+- [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
 
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Accepted)
