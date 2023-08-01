@@ -30,7 +30,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
 
 ### 2023 
-- [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral Presentation) [[Demo]](https://hiervst.github.io/)
+- [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral Presentation) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
 - [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](https://www.isca-speech.org/archive/interspeech_2023/choi23d_interspeech.html), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Oral Presentation)
 ### 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX), **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. [[OpenReview]](https://openreview.net/forum?id=awdyRVnfQKX) [[Demo]](https://sh-lee-prml.github.io/hierspeech-demo/) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/HierSpeech_poster_final.pdf)
