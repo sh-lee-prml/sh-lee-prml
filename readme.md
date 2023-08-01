@@ -26,7 +26,8 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 ## 🎉 Publications
 ### Arxiv
-- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) 
+- [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/)
+- [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, S.-H. Lee, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
 
 ### 2023 
