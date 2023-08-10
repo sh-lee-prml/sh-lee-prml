@@ -74,7 +74,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 ### 🎙Invited Talks
 
-**2023.08.16**: Towards Unified Speech Synthesis for Text-to-Speech and Voice Conversion, [Deepbrain AI](https://www.deepbrain.io/)
+**2023.08.18**: Towards Unified Speech Synthesis for Text-to-Speech and Voice Conversion, [Deepbrain AI](https://www.deepbrain.io/)
 
 **2023.08.11**: Towards Unified Speech Synthesis for Text-to-Speech and Voice Conversion, [Workshop on Brain and Artificial Intelligence 2023](https://brainedusociety.kr/Conference/ConferenceView.asp?AC=2&CODE=CI20230701&CpPage=91#CONF)
 
