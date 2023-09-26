@@ -68,7 +68,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
 ### 🎁 Awards and Services
-**Reviewer**: NeurIPS 2023, ICLR 2024, ICASSP 2024, IEEE/ACM Transcactions on Audio, Speech, and, Language Processing 
+**Reviewer**: NeurIPS 2023, ICLR 2024, ICASSP 2024, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
 
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
