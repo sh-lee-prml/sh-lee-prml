@@ -13,6 +13,9 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
+<!--
+- (WIP) 2023.11: The source code of our diffusion-based Speech Synthesis models including DDDM-VC, Diff-HierVC, and SDT will be released in Nov. 2023  
+- (WIP) 2023.10: We will release [HierSpeech++](), Zero-shot Speech Synthesis models for Zero-shot TTS, Zero-shot VC, and Speech Super-resolution. -->
 - 2023.06: We release [HiddenSinger](https://arxiv.org/abs/2306.06814) for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
@@ -32,7 +35,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
-- [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](https://www.isca-speech.org/archive/interspeech_2023/choi23d_interspeech.html), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Oral)
+- [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](https://www.isca-speech.org/archive/interspeech_2023/choi23d_interspeech.html), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Demo]](https://diff-hiervc.github.io/)
 - [PauseSpeech: Natural Speech Synthesis via Pre-trained Language Model and Pause-based Prosody Modeling](https://arxiv.org/abs/2306.07489), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **ACPR**, 2023. [[Demo]](https://jisang93.github.io/pausespeech-demo/)
 ### 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX), **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. [[OpenReview]](https://openreview.net/forum?id=awdyRVnfQKX) [[Demo]](https://sh-lee-prml.github.io/hierspeech-demo/) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/HierSpeech_poster_final.pdf)
