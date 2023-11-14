@@ -15,7 +15,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 ### ✔ News
 <!--
 - (WIP) 2023.11: The source code of our diffusion-based Speech Synthesis models including DDDM-VC, Diff-HierVC, and SDT will be released in Nov. 2023   -->
-- 2023.11: We release [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), Zero-shot Speech Synthesis models for Zero-shot TTS, Zero-shot VC, and Speech Super-resolution.
+- 2023.11: We release [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), Zero-shot Speech Synthesis models for Zero-shot TTS, Zero-shot VC, and Speech Super-resolution. [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/)
 - 2023.06: We release [HiddenSinger](https://arxiv.org/abs/2306.06814) for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
