@@ -34,9 +34,10 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
-
-### 2023 
+- 
+### 2024 
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI** 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC)
+### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
 - [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](https://www.isca-speech.org/archive/interspeech_2023/choi23d_interspeech.html), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Demo]](https://diff-hiervc.github.io/) [[Code]](https://github.com/hayeong0/Diff-HierVC)
 - [PauseSpeech: Natural Speech Synthesis via Pre-trained Language Model and Pause-based Prosody Modeling](https://arxiv.org/abs/2306.07489), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **ACPR**, 2023. [[Demo]](https://jisang93.github.io/pausespeech-demo/)
