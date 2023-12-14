@@ -13,6 +13,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
+- 2023.12: Two papers have been accepted to ICASSP 2024
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
 <!--
 - (WIP) 2023.11: The source code of our diffusion-based Speech Synthesis models including DDDM-VC, Diff-HierVC, and SDT will be released in Nov. 2023   -->
