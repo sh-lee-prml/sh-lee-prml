@@ -13,7 +13,7 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - Brain-Computer Interface
 
 ### ✔ News
-- 2023.12: Two papers have been accepted to ICASSP 2024
+- 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
 <!--
 - (WIP) 2023.11: The source code of our diffusion-based Speech Synthesis models including DDDM-VC, Diff-HierVC, and SDT will be released in Nov. 2023   -->
@@ -36,7 +36,9 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
-### 2024 
+### 2024
+- TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data, S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
+- MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors, D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC)
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
