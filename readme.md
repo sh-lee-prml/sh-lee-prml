@@ -6,11 +6,11 @@ I'm currently a postdoctoral researcher in AI Research Center, Korea University,
 - PRML Speech Team: [Link](https://prml-lab-speech-team.github.io/demo/)
 
 ### 👀 Research Interests 
-- Speech Synthesis (2024: [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), DDDM-VC)
-- Audio Generation (2024: DDDM-Mixer)
-- Singing Voice Synthesis (2024: MIDI-Voice, HiddenSinger)
-- Speech-to-Speech Translation (2024: TranSentence )
-- Brain-Computer Interface (2019: Brain-to-Speech System)
+- Speech Synthesis (2019~ [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), DDDM-VC)
+- Audio Generation (2023~ DDDM-Mixer)
+- Singing Voice Synthesis (2023~ MIDI-Voice, HiddenSinger)
+- Speech-to-Speech Translation (2024~ TranSentence )
+- Brain-Computer Interface (2019~ Brain-to-Speech System)
 
 ### ✔ News
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
