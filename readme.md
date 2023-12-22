@@ -10,7 +10,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Audio Generation (2023~ DDDM-Mixer)
 - Singing Voice Synthesis (2023~ MIDI-Voice, HiddenSinger)
 - Speech-to-Speech Translation (2024~ TranSentence )
-- Brain-Computer Interface (2019~ Brain-to-Speech System)
+- Brain-Computer Interface (~2020 Brain-to-Speech System)
 
 ### ✔ News
 - 2023.12: I will join the Department of Software and Computer Engineering at Ajou University as an Assistant Professor in Mar. 2024.  
