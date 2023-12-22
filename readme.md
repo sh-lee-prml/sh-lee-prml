@@ -11,7 +11,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Singing Voice Synthesis (2023~ **MIDI-Voice**, **HiddenSinger**)
 - Speech-to-Speech Translation (2024~ **TranSentence**)
 - Brain-Computer Interface (~2020 **[Brain-to-Speech System](https://brain-to-speech.github.io/demo/BTS)**)
-- Reinforcement Learning (~2019 AI Curling Robot, **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**
+- Reinforcement Learning (~2019 AI Curling Robot, **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
 - 2023.12: I will join the Department of Software and Computer Engineering at Ajou University as an Assistant Professor in Mar. 2024.  
