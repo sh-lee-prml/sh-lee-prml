@@ -9,7 +9,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Speech Synthesis (2019~, [**HierSpeech++**](https://github.com/sh-lee-prml/HierSpeechpp), **DDDM-VC**)
 - Audio Generation (2023~, **DDDM-Mixer**)
 - Singing Voice Synthesis (2022~, **MIDI-Voice**, **HiddenSinger**)
-- Speech-to-Speech Translation (2024~, **TranSentence**)
+- Speech-to-Speech Translation (2023~, **TranSentence**)
 - Brain-Computer Interface (2019~2020, **[Brain-to-Speech System](https://brain-to-speech.github.io/demo/BTS)**)
 - Reinforcement Learning (2017~2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
