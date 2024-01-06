@@ -15,7 +15,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 ### ✔ News
 - 2023.12: I will join the Department of Software and Computer Engineering at Ajou University as an Assistant Professor in Mar. 2024.  
-- 2023.12: One paper has been accepted to TASLP (Fre-Painter)
+- 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
 <!--
@@ -40,7 +40,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
 ### 2024
-- Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder, S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024 (Accepted)
+- [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024 (Accepted)
 - TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data, S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
 - MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors, D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC)
