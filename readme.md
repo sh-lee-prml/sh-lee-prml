@@ -15,7 +15,6 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 ### ✔ News
 - 2024.01: One paper has been accepted to ICASSP 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
-- 2023.12: I will join the Department of Software and Computer Engineering at Ajou University as an Assistant Professor in Mar. 2024.  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
