@@ -19,13 +19,12 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
-<!--
-- (WIP) 2023.11: The source code of our diffusion-based Speech Synthesis models including DDDM-VC, Diff-HierVC, and SDT will be released in Nov. 2023   -->
 - 2023.11: We release [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), Zero-shot Speech Synthesis models for Zero-shot TTS, Zero-shot VC, and Speech Super-resolution. [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
 - 2023.06: We release [HiddenSinger](https://arxiv.org/abs/2306.06814) for High-quality singing voice synthesis system. This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
+<!-- 
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
-<!-- - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
+- 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
 - 2022.09: One paper has been accepted to NeurIPS 2022 (HierSpeech)
 - 2022.03: One paper has been accepted to IEEE TASLP (DCVC)
 - 2022.03: One paper has been accepted to ICPR 2022 (StyleVC) 
