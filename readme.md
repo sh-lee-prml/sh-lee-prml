@@ -1,7 +1,7 @@
 ## Sang-Hoon Lee
 I will join the Department of Software and Computer Engineering at Ajou University as an Assistant Professor in Mar. 2024. I'm currently a postdoctoral researcher in AI Research Center, Korea University, Seoul, South Korea. I received the Ph.D. degree in the Department of Brain and Cognitive Engineering, Korea University in 2023. In March 2016, I started my integrated M.S.&Ph.D. in [Pattern Recognition & Machine Learning (PRML) Lab](http://pr.korea.ac.kr) at the Korea University in Seoul, Korea, under the supervision of [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW).
 
-- E-mail: sh_lee@korea.ac.kr
+- E-mail: sanghoonlee@ajou.ac.kr, sh_lee@korea.ac.kr
 - Google Scholar: [Link](https://scholar.google.com/citations?user=HDzlBm0AAAAJ&hl=en)
 - PRML Speech Team: [Link](https://prml-lab-speech-team.github.io/demo/)
 
