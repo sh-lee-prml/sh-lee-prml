@@ -40,7 +40,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
 ### 2024
-- [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee***, H.-Y. Choi*, and S.-W. Lee, **ICASSP**, 2024. 
+- [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSP**, 2024. 
 - [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024 (Accepted)
 - TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data, S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
 - MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors, D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
