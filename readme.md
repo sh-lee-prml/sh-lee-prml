@@ -3,7 +3,8 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 - E-mail: sanghoonlee@ajou.ac.kr, sh_lee@korea.ac.kr
 - Google Scholar: [Link](https://scholar.google.com/citations?user=HDzlBm0AAAAJ&hl=en)
-- PRML Speech Team: [Link](https://prml-lab-speech-team.github.io/demo/)
+- Speech AI LAb. (SAIL): [Link](https://sites.google.com/view/speechailab)
+- PRML Speech Team (Supervisier: [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW)): [Link](https://prml-lab-speech-team.github.io/demo/)
 
 ### 👀 Research Interests 
 - Speech Synthesis (2019~, [**HierSpeech++**](https://github.com/sh-lee-prml/HierSpeechpp), **DDDM-VC**)
