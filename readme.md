@@ -15,7 +15,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Reinforcement Learning (2017~2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
-- 2024.04: One paper has been accepted to TASLP (DiffProsody)
+- 2024.04: One paper has been accepted to TASLP ([DiffProsody](https://github.com/hsoh0306/DiffProsody))
 - 2024.01: One paper has been accepted to ICASSP 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
