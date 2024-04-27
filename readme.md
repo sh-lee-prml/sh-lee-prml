@@ -15,6 +15,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Reinforcement Learning (2017~2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
+- 2024.04: One paper has been accepted to TASLP (DiffProsody)
 - 2024.01: One paper has been accepted to ICASSP 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
@@ -40,6 +41,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
 ### 2024
+- [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSP**, 2024. 
 - [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024.
 - TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data, S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
