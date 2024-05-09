@@ -90,7 +90,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
-**2024.06.7**: Speech Synthesis, 제2회AI융합워크숍, Ajou University
+**2024.06.07**: Speech Synthesis, 제2회AI융합워크숍, Ajou University
 
 **2024.05.24**: Speech Language Model for Generative AI, [KSCS2024](https://cogsci.or.kr/kscs2024/)
 
