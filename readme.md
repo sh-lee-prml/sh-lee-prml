@@ -85,11 +85,12 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
 ### 🎁 Awards and Services
-**Reviewer**: NeurIPS 2023, ICLR 2024, ICASSP 2024, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
+**Reviewer**: NeurIPS 2023, ICLR 2024, ICASSP 2024, ICML 2024, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
 
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
+**2024.05.24**: Speech Language Model for Generative AI, [KSCS2024](https://cogsci.or.kr/kscs2024/)
 
 **2023.08.18**: Towards Unified Speech Synthesis for Text-to-Speech and Voice Conversion, [Deepbrain AI](https://www.deepbrain.io/)
 
