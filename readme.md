@@ -8,7 +8,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 ### 👀 Research Interests 
 - Speech Synthesis (2019~, [**HierSpeech++**](https://github.com/sh-lee-prml/HierSpeechpp), **DDDM-VC**)
-- Neural Vocoder (2021~, **PeriodWave**, **Fre-GAN**, **Fre-GAN2**)
+- Neural Vocoder (2021~, [**PeriodWave, PeriodWave-Turbo**](https://github.com/sh-lee-prml/PeriodWave), **Fre-GAN**, **Fre-GAN2**)
 - Audio Generation (2023~, **DDDM-Mixer**)
 - Singing Voice Synthesis (2022~, **MIDI-Voice**, **HiddenSinger**)
 - Speech-to-Speech Translation (2023~, **TranSentence**)
