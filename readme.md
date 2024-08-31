@@ -17,7 +17,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 ### ✔ News
 - 2024.04: One paper has been accepted to TASLP ([DiffProsody](https://github.com/hsoh0306/DiffProsody))
-- 2024.01: One paper has been accepted to ICASSP 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
+- 2024.01: One paper has been accepted to ICASSPW 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
@@ -42,7 +42,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
   
 ### 2024
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
-- [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSP**, 2024. 
+- [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSPW**, 2024. 
 - [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024.
 - TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data, S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
 - MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors, D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
