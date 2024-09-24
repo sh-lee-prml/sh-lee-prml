@@ -37,8 +37,8 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 
 ## 🎉 Publications
 ### Arxiv
-- [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](https://arxiv.org/abs/2408.08019), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]]((https://github.com/sh-lee-prml/PeriodWave))
-- [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](https://arxiv.org/abs/2408.07547), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]]((https://github.com/sh-lee-prml/PeriodWave))
+- [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](https://arxiv.org/abs/2408.08019), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
+- [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](https://arxiv.org/abs/2408.07547), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454), **S.-H. Lee**, H.-Y. Choi, S.-B. Kim, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
 - [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, 2024. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 
