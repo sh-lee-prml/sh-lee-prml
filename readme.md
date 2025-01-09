@@ -55,6 +55,9 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors](https://ieeexplore.ieee.org/abstract/document/10447981/), D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/DDDM-VC_poster.pdf)
 
+<details> 
+<summary> [Read More] </summary>
+  
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
 - [Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation](https://www.isca-speech.org/archive/interspeech_2023/choi23d_interspeech.html), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Demo]](https://diff-hiervc.github.io/) [[Code]](https://github.com/hayeong0/Diff-HierVC)
@@ -79,6 +82,8 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [Audio Dequantization for High Fidelity Audio Generation in Flow-based Neural Vocoder](https://arxiv.org/abs/2008.06867), H.-W. Yoon, **S.-H. Lee**, H.-R. Noh, and S.-W. Lee, **Interspeech**, 2020.  
 - [Learning Machines Can Curl - Adaptive deep reinforcement learning enables the robot Curly to win against human players in an icy world](https://nips.cc/Conferences/2019/ScheduleMultitrack?event=15442), [D.-O. Won](https://sites.google.com/view/aiml-hallym/people/professor?authuser=0), **S.-H. Lee**, K.-R. Muller, and S.-W. Lee, **NeurIPS 2019 Demonstration Track**, 2019. [[Video]](https://www.youtube.com/watch?v=71S8qpmU6VA) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/NeurIPS2019_poster.pdf)
 
+</details> 
+
 ### Patents (KR)
 - "METHOD AND SYSTEM FOR SYNTHESIZING SPEECH," 10-2663162, 29, Apr., 2024.
 - "METHOD TO TRANSFORM VOICE," 10-2439022, 29, Aug., 2022.
@@ -101,6 +106,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 ### 🎙Invited Talks
 <details> 
 <summary> [Read More] </summary>
+  
 **2024.06.25**: Fake Audio Detection, Ajou University. 
 
 **2024.06.07**: Speech Synthesis, 제2회AI융합워크숍, Ajou University.
