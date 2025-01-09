@@ -46,7 +46,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 ### 2025
 - [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2025
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
-- 
+  
 ### 2024
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSPW**, 2024. 
