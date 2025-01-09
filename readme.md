@@ -16,15 +16,16 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
+- 2025.01: One paper has been accepted to TASLP ([SDT]())
 - 2024.09: One paper has been accepted to Neural Networks ([HiddenSinger](https://arxiv.org/abs/2306.06814)). This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
+
+<!-- 
 - 2024.04: One paper has been accepted to TASLP ([DiffProsody](https://github.com/hsoh0306/DiffProsody))
 - 2024.01: One paper has been accepted to ICASSPW 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
 - 2023.12: Two papers have been accepted to ICASSP 2024 (TranSentence, MIDI-Voice)
 - 2023.12: One paper has been accepted to AAAI 2024 ([DDDM-VC](https://arxiv.org/abs/2305.15816)) 
 - 2023.11: We release [HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp), Zero-shot Speech Synthesis models for Zero-shot TTS, Zero-shot VC, and Speech Super-resolution. [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
-
-<!-- 
 - 2023.05: We release [Decoupled Denoising Diffusion Models (DDDMs) and DDDM-VC](https://arxiv.org/abs/2305.15816) for robust voice conversion system. We also extend DDDMs to DDDM-TTS by utilzing the pre-trained DDDM-VC and Text-to-Vec (TTV) systems. 
 - 2023.05: Two Paper have been accepted to Interspeech 2023 (Diff-HierVC, HierVST)
 - 2022.11: Two paper have been accepted to [JKAIA2022](http://aiassociation.kr/UploadData/Editor/Conference/202211/AB25A5D8158240D0A0D04C593F48DF0D.pdf)
@@ -42,8 +43,11 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454), **S.-H. Lee**, H.-Y. Choi, S.-B. Kim, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
 - [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, 2024. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 
+### 2025
+- [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2025
+- [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
+- 
 ### 2024
-- [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://arxiv.org/abs/2306.06814), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2024 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSPW**, 2024. 
 - [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024.
