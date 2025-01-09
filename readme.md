@@ -56,7 +56,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/DDDM-VC_poster.pdf)
 
 <details> 
-<summary> [Read More] </summary>
+<summary> [-2023] </summary>
   
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
@@ -78,7 +78,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [Fre-GAN: Adversarial Frequency-consistent Audio Synthesis](https://arxiv.org/abs/2106.02297), J.-H. Kim, **S.-H. Lee**, J.-H. Lee, and S.-W. Lee, **Interspeech**, 2021.  
 - [Reinforce-Aligner: Reinforcement Alignment Search for Robust End-to-End Text-to-Speech](https://arxiv.org/abs/2106.02830), H. Chung, **S.-H. Lee**, and S.-W. Lee, **Interspeech**, 2021.  
 
-### ~2020
+### -2020
 - [Audio Dequantization for High Fidelity Audio Generation in Flow-based Neural Vocoder](https://arxiv.org/abs/2008.06867), H.-W. Yoon, **S.-H. Lee**, H.-R. Noh, and S.-W. Lee, **Interspeech**, 2020.  
 - [Learning Machines Can Curl - Adaptive deep reinforcement learning enables the robot Curly to win against human players in an icy world](https://nips.cc/Conferences/2019/ScheduleMultitrack?event=15442), [D.-O. Won](https://sites.google.com/view/aiml-hallym/people/professor?authuser=0), **S.-H. Lee**, K.-R. Muller, and S.-W. Lee, **NeurIPS 2019 Demonstration Track**, 2019. [[Video]](https://www.youtube.com/watch?v=71S8qpmU6VA) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/NeurIPS2019_poster.pdf)
 
