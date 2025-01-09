@@ -99,6 +99,8 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
+<details> 
+<summary> [Read More] </summary>
 **2024.06.25**: Fake Audio Detection, Ajou University. 
 
 **2024.06.07**: Speech Synthesis, 제2회AI융합워크숍, Ajou University.
@@ -118,4 +120,4 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 **2021.12.02**: Voice Conversion, Netmarble
 
 **2021.07.29**: Speech Synthesis and Voice Conversion, Neosapience
-
+</details> 
