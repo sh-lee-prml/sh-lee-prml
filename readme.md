@@ -7,7 +7,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - PRML Speech Team (Supervisor: [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW)): [Link](https://prml-lab-speech-team.github.io/demo/)
 
 ### 👀 Research Interests 
-- Speech Synthesis (2019-, [**HierSpeech++**](https://github.com/sh-lee-prml/HierSpeechpp), **DDDM-VC**)
+- Speech Synthesis (2019-, [**HierSpeech++**](https://github.com/sh-lee-prml/HierSpeechpp), **DDDM-VC**, **Diff-HierVC**)
 - Neural Vocoder (2021-, [**PeriodWave**](https://github.com/sh-lee-prml/PeriodWave), [**PeriodWave-Turbo**](https://github.com/sh-lee-prml/PeriodWave), **Fre-GAN**, **Fre-GAN2**)
 - Neural Audio Codec (2024-)
 - Singing Voice Synthesis (2022-, **MIDI-Voice**, **HiddenSinger**)
@@ -16,7 +16,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
-- 2025.01: One paper has been accepted to TASLP ([SDT]())
+- 2025.01: One paper has been accepted to TASLP ([SDT]()).
 - 2024.09: One paper has been accepted to Neural Networks ([HiddenSinger](https://arxiv.org/abs/2306.06814)). This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 
 <!-- 
