@@ -56,7 +56,7 @@ I will join the Department of Software and Computer Engineering at Ajou Universi
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/DDDM-VC_poster.pdf)
 
 <details> 
-<summary> ### [-2023] </summary>
+<summary> [-2023] </summary>
   
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
