@@ -16,7 +16,8 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
-- 2025.01: One paper has been accepted to TASLP ([SDT]()).
+- 2025.01: One paper has been accepted to IEEE Trans. on Affective Computing ([DurFlex-EVC]()).
+- 2025.01: One paper has been accepted to IEEE Trans. on Audio, Speech and Language Processing ([SDT]()).
 - 2024.09: One paper has been accepted to Neural Networks ([HiddenSinger](https://arxiv.org/abs/2306.06814)). This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
 
 <!-- 
@@ -41,16 +42,16 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](https://arxiv.org/abs/2408.08019), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 - [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](https://arxiv.org/abs/2408.07547), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454), **S.-H. Lee**, H.-Y. Choi, S.-B. Kim, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
-- [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, 2024. (Under Review) [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 
 ### 2025
-- [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2025
+- [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, ""IEEE Trans. on Affective Computing"", 2025. [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
+- [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2025
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
 ### 2024
-- [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **TASLP**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
+- [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSPW**, 2024. 
-- [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **TASLP**, 2024.
+- [Audio Super-resolution with Robust Speech Representation Learning of Masked Autoencoder](https://ieeexplore.ieee.org/document/10381805), S.-B. Kim, **S.-H. Lee**, H.-Y. Choi, S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2024.
 - [TranSentence: Speech-to-Speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data](https://ieeexplore.ieee.org/abstract/document/10447331), S.-B. Kim, **S.-H. Lee**, and S.-W. Lee, **ICASSP**, 2024.
 - [MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors](https://ieeexplore.ieee.org/abstract/document/10447981/), D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/DDDM-VC_poster.pdf)
@@ -64,7 +65,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [PauseSpeech: Natural Speech Synthesis via Pre-trained Language Model and Pause-based Prosody Modeling](https://arxiv.org/abs/2306.07489), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **ACPR**, 2023. [[Demo]](https://jisang93.github.io/pausespeech-demo/)
 ### 2022
 - [HierSpeech: Bridging the Gap between Text and Speech by Hierarchical Variational Inference using Self-supervised Representations for Speech Synthesis](https://openreview.net/pdf?id=awdyRVnfQKX), **S.-H. Lee**, S.-B. Kim, J.-H. Lee, E. Song, M.-J. Hwang, and S.-W. Lee, **NeurIPS**, 2022. [[OpenReview]](https://openreview.net/forum?id=awdyRVnfQKX) [[Demo]](https://sh-lee-prml.github.io/hierspeech-demo/) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/HierSpeech_poster_final.pdf)
-- [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE TASLP**, 2022. (2022-JCR-IF: 5.4, JIF PERCENTILE TOP 8.10%)
+- [Duration Controllable Voice Conversion via Phoneme-based Information Bottleneck](https://ieeexplore.ieee.org/abstract/document/9729483), **S.-H. Lee**, H.-R. Noh, W. Nam, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2022. (2022-JCR-IF: 5.4, JIF PERCENTILE TOP 8.10%)
 - StyleVC: Non-Parallel Voice Conversion with Adversarial Style Generalization, I. Hwang, **S.-H. Lee**, and S.-W. Lee, **ICPR**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/insun-hwang/StyleVC/) [[Code]](https://github.com/intory89/StyleVC)
 - [Fre-GAN 2: Fast and Efficient Frequency-consistent Audio Synthesis](https://ieeexplore.ieee.org/document/9746675), **S.-H. Lee**, J.-H. Kim, G.-E. Lee, and S.-W. Lee, **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/FreGAN2/) [[Code]](https://github.com/prml-lab-speech-team/demo/tree/master/FreGAN2/code)
 - [PVAE-TTS: Progressively Style Adaptive Text-to-Speech via Progressive Variaional Autoencoder](https://ieeexplore.ieee.org/document/9747388),	J.-H. Lee, **S.-H. Lee**, J.-H. Kim, and S.-W. Lee,  **ICASSP**, 2022. [[Demo]](https://prml-lab-speech-team.github.io/demo/PVAE-TTS/)
