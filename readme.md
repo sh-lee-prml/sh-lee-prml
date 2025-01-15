@@ -44,7 +44,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454), **S.-H. Lee**, H.-Y. Choi, S.-B. Kim, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
 
 ### 2025
-- [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, ""IEEE Trans. on Affective Computing"", 2025. [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
+- [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion with Parallel Generation](https://arxiv.org/abs/2401.08095), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, **IEEE Trans. on Affective Computing**, 2025. [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 - [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2025
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
   
