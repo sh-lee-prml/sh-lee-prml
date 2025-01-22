@@ -16,6 +16,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
+- 2025.01: One paper has been accepted to ICLR 2025 ([PeriodWave](https://openreview.net/forum?id=tQ1PmLfPBL)). 
 - 2025.01: One paper has been accepted to IEEE Trans. on Affective Computing ([DurFlex-EVC]()).
 - 2025.01: One paper has been accepted to IEEE Trans. on Audio, Speech and Language Processing ([SDT]()).
 - 2024.09: One paper has been accepted to Neural Networks ([HiddenSinger](https://arxiv.org/abs/2306.06814)). This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
@@ -40,10 +41,10 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 ## 🎉 Publications
 ### Arxiv
 - [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](https://arxiv.org/abs/2408.08019), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
-- [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](https://arxiv.org/abs/2408.07547), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454), **S.-H. Lee**, H.-Y. Choi, S.-B. Kim, and S.-W. Lee, 2023. (Under Review) [[Demo]](https://sh-lee-prml.github.io/HierSpeechpp-demo/) [[Code]](https://github.com/sh-lee-prml/HierSpeechpp) [[Gradio]](https://huggingface.co/spaces/LeeSangHoon/HierSpeech_TTS)
 
 ### 2025
+- [PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation](https://openreview.net/forum?id=tQ1PmLfPBL), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICLR**, 2025. [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 - [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment](https://ieeexplore.ieee.org/abstract/document/10844546), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, **IEEE Trans. on Affective Computing**, 2025. [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 - [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2025
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
