@@ -16,6 +16,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
 ### ✔ News
+- 2025.09: Two papers have been accepted to NeurIPS 2025.
 - 2025.06: One paper has been accepted to IEEE Trans. on Neural Networks and Learning Systems ([HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp))
 - 2025.05: One paper has been accepted to Interspeech 2025 ([PEFT-TTS](https://peft-tts.github.io/demo/)). 
 - 2025.01: One paper has been accepted to ICLR 2025 ([PeriodWave](https://openreview.net/forum?id=tQ1PmLfPBL)). 
@@ -135,3 +136,4 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 
 **2021.07.29**: Speech Synthesis and Voice Conversion, Neosapience
 </details> 
+
