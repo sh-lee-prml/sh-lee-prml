@@ -112,7 +112,9 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 
 ### 🎁 Awards and Services
 **AC**: NeurIPS
+
 **Reviewer**: NeurIPS, ICLR, ICML, AAAI, ICASSP, Interspeech, ACL ARR, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
+
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
