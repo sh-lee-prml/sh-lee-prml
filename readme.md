@@ -15,6 +15,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - Brain-Computer Interface (2019-2020, **[Brain-to-Speech System](https://brain-to-speech.github.io/demo/BTS)**)
 - Reinforcement Learning (2017-2018, AI Curling Robot **[Curly](https://www.youtube.com/watch?v=71S8qpmU6VA)**)
 
+<!-- 
 ### ✔ News
 - 2025.09: Two papers have been accepted to NeurIPS 2025.
 - 2025.06: One paper has been accepted to IEEE Trans. on Neural Networks and Learning Systems ([HierSpeech++](https://github.com/sh-lee-prml/HierSpeechpp))
@@ -23,8 +24,6 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - 2025.01: One paper has been accepted to IEEE Trans. on Affective Computing ([DurFlex-EVC]()).
 - 2025.01: One paper has been accepted to IEEE Trans. on Audio, Speech and Language Processing ([SDT]()).
 - 2024.09: One paper has been accepted to Neural Networks ([HiddenSinger](https://arxiv.org/abs/2306.06814)). This project was funded by Netmarble AI Center, Netmarble Corp. in 2022.
-
-<!-- 
 - 2024.04: One paper has been accepted to TASLP ([DiffProsody](https://github.com/hsoh0306/DiffProsody))
 - 2024.01: One paper has been accepted to ICASSPW 2024 ([LIMMITS'24](https://sites.google.com/view/limmits24/home?authuser=0), ICASSP SP Grand Challenges)  
 - 2023.12: One paper has been accepted to TASLP ([Fre-Painter](https://ieeexplore.ieee.org/document/10381805))
@@ -55,7 +54,9 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [DurFlex-EVC: Duration-Flexible Emotional Voice Conversion Leveraging Discrete Representations Without Text Alignment](https://ieeexplore.ieee.org/abstract/document/10844546), H.-S. Oh, **S.-H. Lee**, D.-H. Cho, and S.-W. Lee, **IEEE Trans. on Affective Computing**, 2025. [[Demo]](https://prml-lab-speech-team.github.io/durflex/) [[Code]](https://github.com/hs-oh-prml/DurFlexEVC)
 - [Personalized and Controllable Voice Style Transfer with Speech Diffusion Transformer](), H.-Y. Choi, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2025
 - [HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models](https://www.sciencedirect.com/science/article/pii/S0893608024006865), J.-S. Hwang, **S.-H. Lee**, and S.-W. Lee, **Neural Networks**, 2025 [[Demo]](https://jisang93.github.io/hiddensinger-demo/)
-  
+
+<details> 
+<summary> [-2024] </summary>
 ### 2024
 - [DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training](https://arxiv.org/abs/2307.16549), H.-S. Oh, **S.-H. Lee**, and S.-W. Lee, **IEEE Trans. on Audio, Speech and Language Processing**, 2024 [[Demo]](https://prml-lab-speech-team.github.io/demo/DiffProsody/) [[Code]](https://github.com/hsoh0306/DiffProsody)
 - [Cross-lingual Text-to-Speech via Hierarchical Style Transfer](https://sites.google.com/view/limmits24/home?authuser=0), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, **ICASSPW**, 2024. 
@@ -64,8 +65,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [MIDI-Voice: Expressive Zero-shot Singing Voice Synthesis via MIDI-driven Priors](https://ieeexplore.ieee.org/abstract/document/10447981/), D.-M. Byun, **S.-H. Lee**, J.-S. Hwang, and S.-W. Lee, **ICASSP**, 2024.
 - [DDDM-VC: Decoupled Denoising Diffusion Models with Disentangled Representation and Prior Mixup for Verified Robust Voice Conversion](https://arxiv.org/abs/2305.15816), H.-Y. Choi*, **S.-H. Lee***, and S.-W. Lee, **AAAI**, 2024. [[Demo]](https://hayeong0.github.io/DDDM-VC-demo/) [[Code]](https://github.com/hayeong0/DDDM-VC) [[Poster]](https://github.com/sh-lee-prml/sh-lee-prml/blob/main/DDDM-VC_poster.pdf)
 
-<details> 
-<summary> [-2023] </summary>
+
   
 ### 2023 
 - [HierVST: Hierarchical Adaptive Zero-shot Voice Style Transfer](https://www.isca-speech.org/archive/interspeech_2023/lee23i_interspeech.html), **S.-H. Lee***, H.-Y. Choi*, H.-S. Oh, and S.-W. Lee, **Interspeech**, 2023. (Oral) [[Arxiv]](https://arxiv.org/abs/2307.16171) [[Demo]](https://hiervst.github.io/)
@@ -93,6 +93,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 
 </details> 
 
+<!--
 ### Patents (KR)
 - "METHOD AND DEVICE FOR GENERATING SINGING VOICE AUDIO," 10-2824122, 18, June, 2025.
 - "METHOD AND APPARATUS FOR PERFORMING EXPRESSIVE SPEECH SYNTHESIS VIA DIFFUSION-BASED LATENT PROSODY GENERATION AND PROSODIC CONDITIONAL ADVERSARIAL TRAINING," 10-2809192, 13, May, 2025.
@@ -101,7 +102,7 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - "METHOD AND APPARTUS FOR VOICE CONVERSION BY USING NEURAL NETWORK," 10-2340486, 14, Dec., 2021.
 - "SYSTEM AND METHOD FOR CURLING SWEEPING CONTROL," 10-2257358, 21, May, 2021.
 - "APPARATUS AND METHOD FOR RECOMMENDATION OF CURLING GAME STRATEGY USING DEEP LEARNING," 10-2045567, 11, Nov., 2019.
-- "APPARATUS AND METHOD FOR DELIVERY AND SWEEPING AT CURLING GAME," 10-1948713, 11, Feb., 2019.
+- "APPARATUS AND METHOD FOR DELIVERY AND SWEEPING AT CURLING GAME," 10-1948713, 11, Feb., 2019.-->
 
 
 ### ✨ Educations
@@ -110,8 +111,8 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 **2012.03-2016.02**: B.S, Dept. of Life Science, Dongguk University
 
 ### 🎁 Awards and Services
-**Reviewer**: NeurIPS, ICLR, ICML, AAAI, ICASSP, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
-
+**AC**: NeurIPS
+**Reviewer**: NeurIPS, ICLR, ICML, AAAI, ICASSP, Interspeech, ACL ARR, IEEE/ACM Transactions on Audio, Speech, and, Language Processing 
 **2022.02.25**: Paper Award (Multi-SpectroGAN: High-Diversity and High-Fidelity Spectrogram Generation with Adversarial Style Combination for Speech Synthesis), Korea University
 
 ### 🎙Invited Talks
