@@ -45,6 +45,12 @@ I am an Assistant Professor in the Department of Software and Computer Engineeri
 - [Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization](https://arxiv.org/abs/2408.08019), **S.-H. Lee**, H.-Y. Choi, and S.-W. Lee, 2024. (Under Review) [[Code]](https://github.com/sh-lee-prml/PeriodWave)
 
 
+### 2026
+- WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning, **S.-H. Lee** and H.-Y. Choi, **NeurIPS**, 2026.
+- AccentDrift: Real-time Streaming Accent Conversion via Sparse Speech Tokenization, **S.-H. Lee**, H. Choi, J. Lee, and S. Park, **Interspeech**, 2026.
+- ReGen: Hierarchical Multi-Prompt Representation Generation for Efficient Waveform Diffusion Models, **S.-H. Lee** and H.-Y. Choi, **ICML**, 2026.
+- Hierarchical Representation Alignment Learning of Diffusion Transformers for Neural Audio Codec, **S.-H. Lee** and H.-Y. Choi, **ACL Findings**, 2026.
+
 ### 2025
 - [StreamFlow: Streaming Audio Generation from Discrete Tokens via Streaming Flow Matching](https://openreview.net/forum?id=1cURNMriee), H.-Y. Choi, **S.-H. Lee**, **NeurIPS**, 2025.
 - [CoreaSpeech: Korean Speech Corpus via JAMO-based Coreset Selection for Efficient and Robust Korean Speech Generation](https://openreview.net/forum?id=8nHq0IIwpd), K.-J. Kwon, J.-H. So, and **S.-H. Lee**, **NeurIPS Datasets and Benchmarks**, 2025.
